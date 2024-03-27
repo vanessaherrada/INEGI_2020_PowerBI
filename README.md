@@ -6,4 +6,5 @@ Este desafío, extraído de Kaggle (https://www.kaggle.com/competitions/titanic/
 
 ![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/a413dc8e-dd42-4511-8875-2b4c1103b7fc)
 
-![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/7d87e56b-9fae-4489-ba2e-d3acbccaa869)
+![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/d0472a47-6dae-471b-9ffe-b1a7dcb358d6)
+
