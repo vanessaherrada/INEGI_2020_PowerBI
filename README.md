@@ -1,10 +1,11 @@
 # CENSO Y CONTEO DE POBLACIÓN Y VIVIENDA DE MÉXICO 2020
 
-Este desafío, extraído de Kaggle (https://www.kaggle.com/competitions/titanic/overview), plantea la tarea de emplear el aprendizaje automático para desarrollar un modelo capaz de prever qué pasajeros lograron sobrevivir al naufragio del Titanic.
+El conjunto de datos utilizado fue obtenido de la página del INEGI: https://www.inegi.org.mx/datosabiertos/ en donde se hizo uso de Power BI.
 
-![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/4a836f83-e0e9-4b37-bf26-88d64295837a)
+A continuación se encuentran las capturas de pantalla del análisis:
 
-![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/a413dc8e-dd42-4511-8875-2b4c1103b7fc)
+![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/246d9c16-eb52-48f2-869f-f3e0d5899a2b)
 
-![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/d0472a47-6dae-471b-9ffe-b1a7dcb358d6)
+![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/2b81c3cf-8c79-4914-99f4-5eaff1a69a44)
 
+![image](https://github.com/vanessaherrada/INEGI_2020_PowerBI/assets/163647765/fe45a760-78ed-4a47-aa00-babd0bed3910)
